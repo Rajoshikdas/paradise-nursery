@@ -13,3 +13,8 @@ It features:
 2. Run the development server: `npm run dev`
 
 Enjoy building your own indoor garden!
+<img width="1884" height="905" alt="image" src="https://github.com/user-attachments/assets/645b54f9-cf14-49e9-8a1a-f641d508d660" />
+<img width="1889" height="912" alt="image" src="https://github.com/user-attachments/assets/233eae66-668b-43c6-88ac-edabfe94d937" />
+<img width="1887" height="912" alt="image" src="https://github.com/user-attachments/assets/3672c1cf-c309-453d-a7de-1183b0b9f2ce" />
+
+
